@@ -10,8 +10,14 @@ public class TestGit {
 		System.out.println("创建新分支");
 		
 		System.out.println("从远程pull到分支dev2上");
+
+
+		int b =2;
+
+		int a = 2;
+
 		
-		float a = 1.0f;
+		float c = 1.0f;
 
 	}
 
