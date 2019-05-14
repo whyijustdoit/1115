@@ -9,6 +9,8 @@ public class TestGit {
 		
 		System.out.println("创建新分支");
 		
+		System.out.println("从远程pull到分支dev2上");
+		
 	}
 
 	
