@@ -7,6 +7,8 @@ public class TestGit {
 		System.out.println("通过git提交到远程仓库222");
 		System.out.println("已删除草泥马");
 		
+		System.out.println("创建新分支");
+		
 	}
 
 	
