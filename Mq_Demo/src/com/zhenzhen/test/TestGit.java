@@ -12,6 +12,8 @@ public class TestGit {
 		System.out.println("从远程pull到分支dev2上");
 		int b = 1;
 		
+		int y = 10;
+		
 	}
 
 	
