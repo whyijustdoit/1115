@@ -15,6 +15,8 @@ public class TestGit {
 
 		int a = 2;
 		
+		float a = 1.0f;
+		
 
 	}
 
