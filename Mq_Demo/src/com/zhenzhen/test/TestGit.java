@@ -21,6 +21,10 @@ public class TestGit {
 		String meide2 = "刚刚提交失败";
 
 		float c = 1.0f;
+		
+		int e = 5;
+		
+		
 
 	}
 
