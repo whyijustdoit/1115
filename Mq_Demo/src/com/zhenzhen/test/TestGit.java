@@ -18,6 +18,8 @@ public class TestGit {
 
 		String meide = "新装的git，尝试提交";
 
+		String meide2 = "刚刚提交失败";
+
 		float c = 1.0f;
 
 	}
